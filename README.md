@@ -1,4 +1,4 @@
-# ML Network Intrusion Detector
+
 
 A scikit-learn project that trains a machine-learning classifier to identify network traffic classes (for example, benign traffic versus attacks) from a **labeled CSV dataset**. It uses a preprocessing pipeline for numeric and categorical features, a class-weighted Random Forest classifier, and evaluation metrics.
 
